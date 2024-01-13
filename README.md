@@ -2,5 +2,6 @@
 
 Assignment of Machine Learning Course for make an example algorithm for k-means clustering
 
-RIYADI 225411079
+NAME : RIYADI
+NIM : 225411079
 
